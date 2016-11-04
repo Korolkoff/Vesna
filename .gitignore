@@ -1,0 +1,11 @@
+/gradle
+/.gradle
+/.idea
+*.log
+/build
+/lab1module/build
+/lab2module/build
+/classes
+/gradlew
+/gradlew.bat
+*.odt#
